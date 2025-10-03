@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 23 17:06:12 COT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0199-789c-e469-000002d26f60 
+on database directory /media/luisgarcia/Datos/33. MLops/MLOps/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/home/luisgarcia/opt/spark-4.0.0/jars/derby-10.16.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=21.0.8+9-Ubuntu-0ubuntu124.04.1
+user.dir=/media/luisgarcia/Datos/33. MLops/MLOps
+os.name=Linux
+os.arch=amd64
+os.version=6.14.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
